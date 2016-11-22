@@ -1,8 +1,8 @@
 # PHYS220 CW 8
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\<Will and Sakthi\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-08-saktill.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-08-saktill)
 
 **Due date:** 2016/10/25
 
@@ -17,7 +17,7 @@ This week, you will explore the differences between ```python/numpy``` and the u
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+I (Will) would say I had fun with Julia Sets. Julia as a program is pretty neat to use. I think I'll personally be sticking to Python for familiarity reasons, but I can see how Julia may end up being a primary language.
 
 ## Honor Pledge
 
@@ -28,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Will and Sakthi
